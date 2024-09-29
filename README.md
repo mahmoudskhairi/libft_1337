@@ -2,7 +2,7 @@
     <h1>42 Libft Project Repository</h1>
     <p>A custom C library designed for the 42 School curriculum.</p>
 </header>
-<img src="C:\Users\HP\Downloads\téléchargement.jpeg" alt="Mountain">
+<img src="Downloads\téléchargement.jpeg" alt="Mountain">
 <section>
     <h2>Repository Details</h2>
     <form id="repo-details">
