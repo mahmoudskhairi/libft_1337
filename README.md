@@ -34,11 +34,11 @@
 <pre>
 <code>
 # Clone the repository
-git clone https://github.com/mahmoudskhairi/libft_42.git
+  git clone https://github.com/mahmoudskhairi/libft_42.git
 # Navigate into the directory
-cd 42-libft
+  cd 42-libft
 # Compile the project
-make
+  make
 </code>
 </pre>
 
