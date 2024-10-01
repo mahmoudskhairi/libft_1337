@@ -5,7 +5,7 @@
 </header>
 
 <!-- HTML for the image (replace with an actual path or URL) -->
-<img src="library.jpg" alt="Libft Logo" style="max-width: 100%; height: auto;">
+<img src="libft_image.webp" alt="Libft Logo" style="max-width: 100%; height: auto;">
 
 ---
 
