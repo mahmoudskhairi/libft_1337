@@ -1,1 +1,3 @@
+<h1> HELLO LIBFT </h1>
+<h2> HELLO LIBFT </h2>
 <h3> HELLO LIBFT </h3>
