@@ -5,7 +5,7 @@
 </header>
 
 <!-- HTML for the image (replace with an actual path or URL) -->
-<img src="[https://example.com/path/to/your/image.jpeg](https://c4.wallpaperflare.com/wallpaper/526/8/1002/library-interior-interior-design-books-wallpaper-preview.jpg)" alt="Libft Logo" style="max-width: 100%; height: auto;">
+<img src="https://example.com/path/to/your/image.jpeg(https://c4.wallpaperflare.com/wallpaper/526/8/1002/library-interior-interior-design-books-wallpaper-preview.jpg)" alt="Libft Logo" style="max-width: 100%; height: auto;">
 
 ---
 
