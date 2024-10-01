@@ -64,7 +64,6 @@ libft/
   <li><a href="#usage">Usage</a></li>
   <li><a href="#functions">Function List</a></li>
   <li><a href="#contributing">Contributing</a></li>
-  <li><a href="#license">License</a></li>
   <li><a href="#contact">Contact</a></li>
 </ul>
 
@@ -87,10 +86,8 @@ libft/
 <code>
 # Clone the repository
 git clone https://github.com/mahmoudskhairi/libft_42.git
-
 # Navigate into the directory
 cd 42-libft
-
 # Compile the project
 make
 </code>
