@@ -4,7 +4,7 @@
 <p align="center">
   <strong>A C standard library reimplementation for the 42 school curriculum.</strong>
 </p>
-
+ 
 <h2>Table of Contents</h2>
 <ul>
   <li><a href="#project-overview">Project Overview</a></li>
